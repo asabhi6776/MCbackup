@@ -1,0 +1,10 @@
+mbackup [FLAG] [argument]
+
+flags:
+
+-h Help page
+-f Give your file location.
+-c define customer name
+Example - 
+
+mbackup -f assets/ -c customer
