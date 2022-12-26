@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 *.tar.bz2
-
+.devcontainer
 # Distribution / packaging
 .Python
 build/
